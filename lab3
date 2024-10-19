@@ -1,0 +1,35 @@
+20100@DESKTOP-1OJ31SQ MINGW64 ~ (index_report)
+$ history
+    1  git config --global user.name "Puja Roy"
+    2  git cofig --global user.email "pujaroydipa414@gmail.com"
+    3  clear
+    4  git config --global user.name "puja"
+    5  git config --global user.email "pujaroydipa414@gmail.com"
+    6  git init
+    7  ls
+    8  ls -a
+    9  git status
+   10  touch index.html
+   11  git status
+   12  git add index.html
+   13  git status
+   14  git commit -m "create a file index.html"
+   15  git status
+   16  git log
+   17  open index.html
+   18  git status
+   19  git ls-files
+   20  git checkout 77b70237e4ec3a3f3726cd82db73a2cb08b48646
+   21  git branch
+   22  git branch index2
+   23  git branch
+   24  git switch -
+   25  git branch
+   26  git branch index40
+   27  git branch
+   28  git status
+   29  git switch index2
+   30  git branch -m index2 index_report
+   31  git branch -a
+   32  git branch -d index40
+   33  git branch -a
